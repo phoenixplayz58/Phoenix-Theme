@@ -65,7 +65,7 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   --main-font: roboto;
-  --code-font: Consolas;
+  --code-font: roboto;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
