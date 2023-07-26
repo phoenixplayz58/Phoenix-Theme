@@ -31,7 +31,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://w0.peakpx.com/wallpaper/498/262/HD-wallpaper-phoenix-bird-fire-orange-hop-red.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -64,7 +64,7 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: gg sans;
+  --main-font: roboto;
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
