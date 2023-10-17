@@ -1,0 +1,57 @@
+/**
+ * @name Phoenix Bird Theme V2
+ * @version 1.0.6.3
+ * @description A Pheonix Bird Theme
+ * @author DanielsGaming20
+ * @website http://github.com/CapnKitten
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
+ * @donate https://paypal.me/capnkitten
+ * @invite jzJkA6Z
+ * @BDEditor Translucence
+*/
+
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
+
+:root {
+  --app-bg: url('https://i.imgur.com/8XQPkLM.jpg');
+  --app-blur: 2px;
+  --app-margin: 0px;
+  --app-radius: 14px;
+  --accent-hue: 23;
+  --accent-saturation: 70%;
+  --accent-lightness: 50%;
+  --accent-opacity: 1;
+  --sidebar-color: rgba(0,0,0,0.4);
+  --main-content-color: rgba(0,0,0,0.2);
+  --undefined: 0;
+  --interactive-normal: #FF8200;
+  --interactive-hover: #FF8200;
+  --interactive-active: #FF8200;
+  --interactive-muted: #FF8200;
+  --undefined: 0;
+  --background-modifier-hover: rgba(255,255,255,0.075);
+  --background-modifier-selected: rgba(255,255,255,0.125);
+  --message-color: rgb(20,20,20,1);
+  --message-radius: 12px;
+  --message-padding-top: 3px;
+  --message-padding-side: 3px;
+  --undefined: 0;
+  --reply-hue: 228;
+  --reply-saturation: 77%;
+  --reply-lightness: 61%;
+  --reply-opacity: 1;
+  --textarea-color: 255,255,255;
+  --textarea-alpha: 0.12;
+  --textarea-alpha-focus: 0.15;
+  --textarea-radius: 22px;
+  --card-color: rgba(0,0,0,0.4);
+  --card-color-hover: rgba(0,0,0,0.5);
+  --card-color-select: rgba(0,0,0,0.7);
+  --button-height: 32px;
+  --button-padding: 0 16px;
+  --button-radius: 16px;
+}
+
+/* Any custom CSS below here */
+
+
